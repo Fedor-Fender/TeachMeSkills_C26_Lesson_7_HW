@@ -1,4 +1,4 @@
-package Task_1;
+package com.techmeskills.homework_7.Task_1;
 
 public class Employer implements Definable {
     int codePosition2;
